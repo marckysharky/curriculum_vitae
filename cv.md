@@ -1,93 +1,63 @@
 ![](http://www.gravatar.com/avatar/ebc4f3ca1194bbf0b352307e2c5778b8.png)
 
-# Curriculum Vitae - Marc Watts
-* +44 (0)7411234559
-* [marcky.sharky@gmail.com](marcky.sharky@gmail.com)
-* [LinkedIn](http://uk.linkedin.com/in/marcawatts)
+# Marc Watts
++44 (0)7411234559 | [marcky.sharky@gmail.com](marcky.sharky@gmail.com) | [LinkedIn](http://uk.linkedin.com/in/marcawatts) | [GitHub](https://github.com/marckysharky)
 
 ***
 
-Software developer, working mainly in web based products, currently based in London.
-
-Technology and product experience:
-
-* ElasticSearch
-* Logstash
-* AWS
-* CDN 
-* MemCached
-* Redis
-* Postgresql
-* Ruby
-* Ruby on Rails
-* Lua
-* Nginx
-* OpenResty
-* Jenkins/Hudson
-* Chef
-* Unix
-* JavaScript + CoffeeScript
-* Git
-* TDD & BDD
-
-Buzz:
-
-* Continuous integration
-* Continuous deployment
-* Apt package deployments
-* Metrics and monitoring
-* oAuth2 & Open ID Connect provider
-* Restful & Hypermedia API Services
-* Load Testing
+Software developer, focused on building simple and scalable applications, with experience in a variety of languages, frameworks, and technologies. Taking business requirements and concepts through to full scale production products, built on common practices; test driven development, continuous integration, continuous deployment, and full stack metrics gathering and monitoring.
 
 ***
+
+## Key skills
+
+* Ruby software development
+* Ruby on Rails application development & production scaling
+* Software design and architecture
+* Amazon Web Services hosting
 
 ## Current Position - Lead Developer at Lonely Planet
-From 8/2014
+From Aug 2014
 
-Design, build and maintain production applications for internal and external clients.
+Leading development teams and working independently on delivering applications that meet business requirements, including:
 
-Ranging from high volume public facing to internal data processing applications, utilising various languages and tools.
-
-Examples include:
-
-* Data import and aggregation engines
-* Centralised authentication and authorization services
-* Fulltext search engine clusters
-* Data services, mainly to Restful specifications
+* Data aggregation and processing engines
+* Restful and Hypermedia API services
+* High volume consumer facing products
 
 ## Experience
 
 ### Lonely Planet (Travel Publisher) - Software Developer
-From 9/2011 to 8/2014 (3 years and 1 month)
+From Sept 2011 to Aug 2014 (3 years)
 
 Part of a growing team, developing new applications in multiple languages, and improving the company's web products. Taking requirements from the start of an idea and developing all aspects through to delivery.
+	
+Projects include:
 
-Have worked through many big projects, including:
-
-* Hosted to cloud migration of .com product
-* Re-engineering of platform - code, datastore and infrastructure
+* Hosted to Cloud migration of .com and business products
+* Full stack re-engineering of business platform
 * Development of company "DevOps" culture and "Infrastructure as Code" policies
 
 ### Global Personals (Dating Platform) - Web Developer
-From 9/2008 to 9/2011 (3 years)
+From Sept 2008 to Sept 2011 (3 years)
 
 Ruby on Rails and Ruby developer working on core applications for internal and external use. 
 
 A mixture of maintaining existing systems (written in Ruby and other languages, such as ColdFusion) and creating new applications to support the growth and quality of service the business provides.
 
 ### Proteus Virtual (Creative Agency) - Developer
-From 10/2007 to 9/2008 (1 year)
+From Oct 2007 to Sept 2008 (1 year)
 
 C# .net 2.0/3.0, php, and user interface web developer
 
 ### Electronic Data Systems - Graduate development programme
-From 8/2007 to 10/2007 (3 months)
+From Aug 2007 to Oct 2007 (3 months)
 
 ### Dstl (Defence and Military) - .net VB & C# Developer
-From 9/2005 to 9/2006 (1 year and 1 month)
+From Sept 2005 to Oct 2006 (1 year and 1 month)
 
 ## Education
+
 ### University of Surrey
 Bachelor of Applied Science (BASc),Information Technology - Upper Second
 
