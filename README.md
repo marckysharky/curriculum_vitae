@@ -66,6 +66,14 @@ Bachelor of Applied Science (BASc),Information Technology - Upper Second
 
 ## References
 
-Mark Jennings       | Director of Technical Operations          | Lonely Planet | mark.jennings@lonelyplanet.com
-Dave Nolan            | Director of Technology                         | Lonely Planet | dave.nolan@lonelyplanet.com
-Anselmo Da Silva  | Business Intelligence Front End Lead | Expedia Inc     | anselmo.ars@gmail.com
+### Mark Jennings
+##### Director of Technical Operations - Lonely Planet
+mark.jennings@lonelyplanet.com
+
+### Dave Nolan
+##### Director of Technology - Lonely Planet
+dave.nolan@lonelyplanet.com
+
+### Anselmo Da Silva
+##### Business Intelligence Front End Lead - Expedia Inc
+anselmo.ars@gmail.com
