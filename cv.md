@@ -11,15 +11,17 @@ Software developer, focused on building simple and scalable applications, with e
 
 ## Key skills
 
-* Ruby software development
-* Ruby on Rails application development & production scaling
+* 5+ years Ruby software development
+* Full stack Ruby on Rails application development & production scaling
 * Software design and architecture
 * Amazon Web Services hosting
 
 ## Current Position - Lead Developer at Lonely Planet
 From Aug 2014
 
-Leading development teams and working independently on delivering applications that meet business requirements, including:
+Leading development teams and working independently. Responsible for overseeing quality and delivery of a range of software solutions with teams distributed across multiple timezones. Building upon and improving newly integrated practices, and continuing to encourage a DevOps philosophy across all technology teams.
+
+Projects includes:
 
 * Data aggregation and processing engines
 * Restful and Hypermedia API services
@@ -30,11 +32,12 @@ Leading development teams and working independently on delivering applications t
 ### Lonely Planet (Travel Publisher) - Software Developer
 From Sept 2011 to Aug 2014 (3 years)
 
-Part of a growing team, developing new applications in multiple languages, and improving the company's web products. Taking requirements from the start of an idea and developing all aspects through to delivery.
-	
+Part of a growing team, taking requirements from the start of an idea and developing all aspects through to delivery. 
+Integrating new practices to the company's software delivery processes, including continuous integration, continuous deployment, and infrastructure as code.
+
 Projects include:
 
-* Hosted to Cloud migration of .com and business products
+* Migration of Lonely Planet dot com infrastructure from on-premises hosting to Cloud (Amazon Web Services)
 * Full stack re-engineering of business platform
 * Development of company "DevOps" culture and "Infrastructure as Code" policies
 
