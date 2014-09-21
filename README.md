@@ -21,7 +21,7 @@ From Aug 2014
 
 Leading development teams and working independently. Responsible for overseeing quality and delivery of a range of software solutions with teams distributed across multiple timezones. Building upon and improving newly integrated practices, and continuing to encourage a DevOps philosophy across all technology teams.
 
-Projects includes:
+Projects include:
 
 * Data aggregation and processing engines
 * Restful and Hypermedia API services
@@ -32,7 +32,7 @@ Projects includes:
 ### Lonely Planet (Travel Publisher) - Software Developer
 From Sept 2011 to Aug 2014 (3 years)
 
-Part of a growing team, taking requirements from the start of an idea and developing all aspects through to delivery. 
+Part of a growing team, taking requirements from the start of an idea and developing all aspects through to delivery.
 Integrating new practices to the company's software delivery processes, including continuous integration, continuous deployment, and infrastructure as code.
 
 Projects include:
@@ -44,7 +44,7 @@ Projects include:
 ### Global Personals (Dating Platform) - Web Developer
 From Sept 2008 to Sept 2011 (3 years)
 
-Ruby on Rails and Ruby developer working on core applications for internal and external use. 
+Ruby on Rails and Ruby developer working on core applications for internal and external use.
 
 A mixture of maintaining existing systems (written in Ruby and other languages, such as ColdFusion) and creating new applications to support the growth and quality of service the business provides.
 
