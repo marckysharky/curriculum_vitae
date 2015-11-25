@@ -20,7 +20,7 @@ Software developer, focused on building simple and scalable applications, with e
 From Apr 2015
 
 Working across multiple teams, delivering features to existing applications and building new platforms to support business growth. A wide range of technologies and languages, including:
-* Amaazon Web Services
+* Amazon Web Services
 * Fabric
 * Puppet
 * Python
