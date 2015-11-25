@@ -16,8 +16,22 @@ Software developer, focused on building simple and scalable applications, with e
 * Software design and architecture
 * Amazon Web Services hosting
 
-## Current Position - Lead Developer at Lonely Planet
-From Aug 2014
+## Current Position - Developer at uSwitch
+From Apr 2015
+
+Working across multiple teams, delivering features to existing applications and building new platforms to support business growth. A wide range of technologies and languages, including:
+* Amaazon Web Services
+* Fabric
+* Puppet
+* Python
+* Clojure
+* Ruby
+* Kafka
+* Postgresql
+
+## Experience
+### Lead Developer at Lonely Planet
+From Aug 2014 to Apr 2015 (9 months)
 
 Leading development teams and working independently. Responsible for overseeing quality and delivery of a range of software solutions with teams distributed across multiple timezones. Building upon and improving newly integrated practices, and continuing to encourage a DevOps philosophy across all technology teams.
 
@@ -26,8 +40,6 @@ Projects include:
 * Data aggregation and processing engines
 * Restful and Hypermedia API services
 * High volume consumer facing products
-
-## Experience
 
 ### Lonely Planet (Travel Publisher) - Software Developer
 From Sept 2011 to Aug 2014 (3 years)
