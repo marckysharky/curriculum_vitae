@@ -7,7 +7,7 @@
 
 Software developer, focused on building simple and scalable applications, with experience in a variety of languages, frameworks, and technologies.
 
-* Object orientated and functional programming languages
+* Object oriented and functional programming languages
 * Ruby, Clojure, Golang
 * Software design and architecture
 * Data processing, aggregation and delivery
