@@ -1,36 +1,36 @@
 ![](http://www.gravatar.com/avatar/ebc4f3ca1194bbf0b352307e2c5778b8.png)
 
 # Marc Watts
-+44 (0)7411234559 | [marcky.sharky@gmail.com](marcky.sharky@gmail.com) | [LinkedIn](http://uk.linkedin.com/in/marcawatts) | [GitHub](https://github.com/marckysharky)
++44 (0)7411234559 | [marcky dot sharky at gmail dot com](marcky.sharky@gmail.com) | [LinkedIn](http://uk.linkedin.com/in/marcawatts) | [GitHub](https://github.com/marckysharky)
 
 ***
 
-Software developer, focused on building simple and scalable applications, with experience in a variety of languages, frameworks, and technologies. Taking business requirements and concepts through to full scale production products, built on common practices; test driven development, continuous integration, continuous deployment, and full stack metrics gathering and monitoring.
+Software developer, focused on building simple and scalable applications, with experience in a variety of languages, frameworks, and technologies.
 
-***
-
-## Key skills
-
-* 5+ years Ruby software development
-* Full stack Ruby on Rails application development & production scaling
+* Object orientated and functional programming languages
+* Ruby, Clojure, Golang
 * Software design and architecture
-* Amazon Web Services hosting
+* Data processing, aggregation and delivery
+* API development and scaling
+* Amazon Web Services and product integration
 
-## Current Position - Developer at uSwitch
+## Current Position
+### Developer at uSwitch
 From Apr 2015
 
-Working across multiple teams, delivering features to existing applications and building new platforms to support business growth. A wide range of technologies and languages, including:
-* Amazon Web Services
-* Fabric
-* Puppet
-* Python
-* Clojure
+Member of the platform team, delivering features to existing applications and building new platforms to support business growth. Products range from internal data aggregation and delivery to external customer facing APIs, using number of technologies and languages, including:
 * Ruby
+* Clojure
+* Golang
+* Docker
+* Amazon Web Services
 * Kafka
 * Postgresql
+* ElasticSearch
+* Nginx & Openresty
 
 ## Experience
-### Lead Developer at Lonely Planet
+### Lonely Planet (Travel Publisher) - Lead Developer
 From Aug 2014 to Apr 2015 (9 months)
 
 Leading development teams and working independently. Responsible for overseeing quality and delivery of a range of software solutions with teams distributed across multiple timezones. Building upon and improving newly integrated practices, and continuing to encourage a DevOps philosophy across all technology teams.
@@ -40,6 +40,7 @@ Projects include:
 * Data aggregation and processing engines
 * Restful and Hypermedia API services
 * High volume consumer facing products
+* Content aggregation & geolocation matching
 
 ### Lonely Planet (Travel Publisher) - Software Developer
 From Sept 2011 to Aug 2014 (3 years)
