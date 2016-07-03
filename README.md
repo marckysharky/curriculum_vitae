@@ -1,7 +1,7 @@
 ![](http://www.gravatar.com/avatar/ebc4f3ca1194bbf0b352307e2c5778b8.png)
 
 # Marc Watts
-+44 (0)7411234559 | [marcky dot sharky at gmail dot com](marcky.sharky@gmail.com) | [LinkedIn](http://uk.linkedin.com/in/marcawatts) | [GitHub](https://github.com/marckysharky)
++44 (0)7411234559 | [Email](marcky.sharky@gmail.com) | [LinkedIn](http://uk.linkedin.com/in/marcawatts) | [GitHub](https://github.com/marckysharky)
 
 ***
 
