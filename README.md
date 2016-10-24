@@ -15,7 +15,7 @@ Software developer, focused on building simple and scalable applications, with e
 * Amazon Web Services and product integration
 
 ## Current Position
-### Developer at uSwitch
+### Senior Developer at uSwitch
 From Apr 2015
 
 Member of the platform team, delivering features to existing applications and building new platforms to support business growth. Products range from internal data aggregation and delivery to external customer facing APIs, using number of technologies and languages, including:
